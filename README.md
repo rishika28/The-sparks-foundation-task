@@ -9,3 +9,5 @@ Problem statement : What will be predicted score if a student studies for 9.25 h
 Data : http://bit.ly/w-data
 
 youtube link: https://youtu.be/WxKysBcIP4E
+
+linkedin link:https://www.linkedin.com/posts/rishika-chhibber-584906186_thesparksfoundation-gripjune21-griptask-activity-6805861897737515008-jjhd
